@@ -1,4 +1,4 @@
-library hugeicons_strokerounded;
+library;
 
 /// StrokeRounded style icons for HugeIcons (Free).
 /// 
